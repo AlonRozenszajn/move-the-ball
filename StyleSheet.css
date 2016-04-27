@@ -1,0 +1,25 @@
+﻿body{
+            background-color:black;
+        }
+        #container {
+            width: 700px;
+            height: 700px;
+            background-color: #FFC107;
+            margin:auto;
+        }
+
+        #ball {
+            left: 250px;
+            top: 250px;
+            width: 50px;
+            height: 50px;
+            border: 1px solid;
+            background-color: #00FF2B;
+            position: relative;
+            border-radius: 50px;
+        }
+
+        #game-over-img {
+            margin-left: 226px;
+            margin-top: 208px;
+        }
